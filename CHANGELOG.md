@@ -1,4 +1,15 @@
-# Changelog
+## [0.1.1] - 2026-07-12
+
+### Added
+
+- Added a before/after example showing the original and polished image.
+- Added `examples/README.md` to index example files.
+- Added `docs/usage.md` for a simple workflow guide.
+
+### Notes
+
+- This update improves repository structure and makes the project easier to navigate.
+- The repository now includes clearer example documentation for contributors and reviewers.# Changelog
 
 All notable changes to this project will be documented in this file.
 
